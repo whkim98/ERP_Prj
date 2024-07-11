@@ -63,12 +63,7 @@
 
 - [개요](#outline)
 - [프로젝트 구성](#Configuration)
-- [다이어그램](#Diagram)
-- [협업 방식 - Loop](#Loop)
 - [팀의 개발 문화](#culture)
-- [결과물](#outputs)
-- [API 명세서](#API)
-- [발표자료](#BOARD)
   
 <br>
 
@@ -138,50 +133,6 @@
 
 <br>
 
-# 📈 다이어그램  <a name = "Diagram"></a>
-
-<details>
-   <summary> 본문 확인 (👈 Click)</summary>
-<br/>
-
-<h3>ER다이어그램</h3>
-<div align="center">
- <img src="https://github.com/6BitCampers/Nangman_Doctor/assets/86636344/01b725d9-fad3-465b-a031-52b6709f58f4" width="450">
-</div>
-
-</details>
-
-<br>
-
-# 🙌🏻 협업 방식 - Loop <a name = "Loop"></a>
-
-<details>
-   <summary> 본문 확인 (👈 Click)</summary>
-<br />
-
-
-<div align="center">
- <img src="https://github.com/6BitCampers/Nangman_Doctor/assets/86636344/a8fd24c8-ba38-46d2-b0f9-00545a62d61f" width="350">
-</div>
-
-<div align="center">
- <img src="https://github.com/6BitCampers/Nangman_Doctor/assets/86636344/8c72b9fd-22f1-44f0-8213-5981b997c713" width="350">
-</div>
-
-<div align="center">
- <img src="https://github.com/6BitCampers/Nangman_Doctor/assets/86636344/f8001790-86d6-45b9-8e90-57dcdf614f3c" width="350">
-</div>
-
-저희 팀은 협업 방식으로 Notion, Trello, Google Sheets를 사용했습니다.  
-
-아이디어를 공유하고 해당 아이디어 대해 자신의 생각과 추가적인 아이디어를 작성하여 아이디어 보완을 했습니다.
-
-프로젝트 선정 후 목표 우선순위 진행률과 구현할 기능을 선정하고  역할 분담을 하고 각자 맡은 기능들에 대해 백로그를 작성하면서 팀원들과 진행사항을 공유했습니다.
-
-</details>
-
-<br>
-
 
 # 🎡 팀의 개발 문화 <a name = "culture"></a>
 
@@ -215,31 +166,6 @@ Main 브랜치로 merge된 이후에는 변경된 기능을 확인하고 오류 
 </details>
 
 <br>
-
-# 🔎 결과물  <a name = "outputs"></a>
-
-<details>
-   <summary> 본문 확인 (👈 Click)</summary>
-<br />
-
-배포주소: http://deploysemi.midichi.kro.kr/
-
-
-</details>
-
-<br>
-
-# 📃 API 명세서 <a name = "API"></a>
-
-<details>
-  <summary> 본문 확인 (👈 Click)</summary>
-  <br />
-
-  스웨거 주소: http://deploysemi.midichi.kro.kr/swagger-ui
-</details>
-
-<br>
-
 
 # 📃 발표자료 <a name = "BOARD"></a>
 
