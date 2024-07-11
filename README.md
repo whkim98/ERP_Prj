@@ -167,15 +167,5 @@ Main 브랜치로 merge된 이후에는 변경된 기능을 확인하고 오류 
 
 <br>
 
-# 📃 발표자료 <a name = "BOARD"></a>
-
-<details>
-  <summary> 본문 확인 (👈 Click)</summary>
-  <br />
-  
-  발표자료 : ![낭만닥터_발표자료.pdf](https://github.com/user-attachments/files/16098868/_.pdf)
-</details>
-
-
 
 
