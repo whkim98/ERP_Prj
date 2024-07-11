@@ -95,15 +95,28 @@
 
 + 인사 기능
     - 사용자 정보 CRUD 데이터 관리, 검색
+    - 사원코드 클릭시 ajax 통신을 통한 수정폼 이동
     ![image](https://github.com/whkim98/ERP_Prj/assets/86636344/b2ebafaf-0fe2-459b-983a-4f4ccd1321a8)
+
+    - 휴가 등록시 잔여휴가와 휴가사용일을 계산 후 잔여휴가 표시
+    - 주말 및 공휴일은 계산 자동 제외
+    ![image](https://github.com/whkim98/ERP_Prj/assets/86636344/d00be18f-88c1-4555-b8e1-902cfce686db)
+
+    - 추가 근무 정산 기능
+    - 등록시 내부 계산식을 통한 정산 금액 측정
+    ![image](https://github.com/whkim98/ERP_Prj/assets/86636344/4300f869-6f4d-4b5d-80a8-c0d27e119bbf)
 
 
 <br>
 
-+ 예약
-    - 병원 검색을 통해 예약 페이지 접속
-    - 예약과 동시에 로그인한 이메일 주소로 알림 메일 전송
-    - 직원 페이지에서 수락 버튼 클릭시 화상진료 입장 가능
++ 물류 기능
+    - 통합 재고 관리
+    - 수량 재조정 가능
+    - 폐기처리 및 수정, 삭제
+    ![image](https://github.com/whkim98/ERP_Prj/assets/86636344/f5eaeb9d-dff7-47e5-b829-617bab50695f)
+
+
+
 
 <br>
 
